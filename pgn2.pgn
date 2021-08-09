@@ -8,8 +8,6 @@
 [Annotator "ahuan"]
 [SetUp "1"]
 [FEN "2r2rk1/pb1qbppp/np2p3/3p4/1P1P4/P1N3P1/3BPPBP/R2Q1RK1 b - - 0 14"]
-[PlyCount "7"]
-[EventDate "2021.??.??"]
 
 14... Nc7 15. e3 Ne8 16. Qe2 Nd6 17. Rfc1 Nc4 $15 {0-1 (35) Wislez,F 
-(2079)-Tiviakov,S (2567) Eupen 2000} *`
+(2079)-Tiviakov,S (2567) Eupen 2000} *
