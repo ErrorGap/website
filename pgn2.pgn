@@ -1,13 +1,11 @@
-[Event "?"]
-[Site "?"]
-[Date "2021.07.19"]
-[Round "?"]
-[White "Knight Outpost"]
-[Black "Improve Piece Activity"]
+[Event "CT Problem"]
+[Site "Chesstempo.com"]
+[Date "????.??.??"]
+[Round "-"]
+[White "101388"]
+[Black "player"]
 [Result "*"]
-[Annotator "ahuan"]
 [SetUp "1"]
-[FEN "2r2rk1/pb1qbppp/np2p3/3p4/1P1P4/P1N3P1/3BPPBP/R2Q1RK1 b - - 0 14"]
+[FEN "4r2k/1p4p1/6Rp/p1p1P3/4qr2/P7/1P2Q1RP/7K w - - 0 1"]
 
-14... Nc7 15. e3 Ne8 16. Qe2 Nd6 17. Rfc1 Nc4 $15 {0-1 (35) Wislez,F 
-(2079)-Tiviakov,S (2567) Eupen 2000} *
+1.Rxg7 Qxe2 ( { +6.82 } 1...Qxe2 2.Rxe2 Kxg7 3.Re3 Rg8 4.h3 Kf7 5.e6+ Ke7 6.Re2 Rg6 7.Kh2 Rxe6 8.Rg2 c4 9.Rg7+ Rf7 10.Rg2 ) ( { 0.00 } 1...b5 2.Rg6 Kh7 3.Rb6 Rxe5 4.Qxe4+ Rexe4 5.Rb7+ Kh8 6.Rxb5 Re1+ 7.Rg1 Re2 8.Rxc5 Rxb2 9.Rxa5 Rh4 10.Ra8+ Kh7 11.Ra7+ Kh8 12.Rgg7 Rhxh2+ 13.Kg1 Rhe2 14.Rh7+ Kg8 15.Rhg7+ Kh8 ) ( { 0.00 } 1...c4 2.Qxe4 Rxe4 3.Rxb7 Re1+ 4.Rg1 R1xe5 5.Rg6 h5 6.h3 Rf5 7.Kh2 Re3 8.Rd6 Rd3 9.Rh6+ Kg8 10.Rg6+ Kf8 11.Ra6 Rd2+ 12.Kg3 Rd3+ 13.Kg2 Rd2+ 14.Kg3 ) ( { -0.02 } 1...a4 2.Qxe4 Rxe4 3.Rxb7 Re1+ 4.Rg1 R1xe5 5.Rb6 Kh7 6.h3 h5 7.Rb7+ Kh6 8.Rbg7 Re1 9.Rg6+ Kh7 10.Rxe1 Rxe1+ ) ( { -0.08 } 1...Ref8 2.Qxe4 Rxe4 3.Rxb7 Re1+ 4.Rg1 Rxe5 5.Rbg7 c4 6.R7g2 Rf7 7.Rc1 Re4 8.Kg1 Kh7 9.Rf1 Rg7 10.Rxg7+ Kxg7 ) 2.Rxe2 ( { -6.74 } 2.Rxe2 Kxg7 3.Re3 Rg8 4.h3 Kf7 5.e6+ Ke7 6.Re2 Rg6 7.Kh2 Rxe6 8.Rd2 c4 9.a4 Rf5 10.h4 ) ( { -7.24 } 2.Rh7+ Kxh7 3.Rxe2 Rf1+ 4.Kg2 Rf5 5.Kg3 Rfxe5 6.Rd2 Kg6 7.Kf4 Re2 8.Rd6+ Kh5 9.Kf3 Rxb2 10.Rd5+ ) ( { mate -7 } 2.h3 Qxe5 3.R7g3 Rf1+ 4.Kh2 Qe1 5.Rg8+ Rxg8 6.Rxg8+ Kxg8 7.h4 Rg1 8.b3 Qg3# ) ( { mate -5 } 2.Rg1 Rf2 3.R7g2 Qf3 4.b3 Rg8 5.a4 Rfxg2 6.Rxg2 Qxg2# ) ( { mate -5 } 2.Rf7 Rf1+ 3.Rxf1 Qxf1+ 4.Rg1 Qf3+ 5.Rg2 Rg8 6.h4 Qxg2# ) 2...Kxg7 ( { +6.95 } 2...Kxg7 3.Kg2 Rf5 4.e6 Kf6 5.h3 c4 6.a4 Rxe6 7.Rc2 Rf4 8.Rd2 Ke5 9.Kh2 Ref6 10.Kg2 Rg6+ 11.Kh2 Ke4 ) ( { +0.18 } 2...Rf2 3.Rg2 Rxe2 4.Rxe2 Kg7 5.Kg2 Kf7 6.Kg3 Rd8 7.Kh4 Ke6 8.Kh5 Rh8 9.h4 c4 10.a4 b6 11.Re4 Kd5 ) ( { +0.15 } 2...Rf1+ 3.Rg1 Rxg1+ 4.Kxg1 Kg8 5.Kg2 Kf7 6.Kg3 Rd8 7.Kh4 Ke6 8.Kh5 Rh8 9.Kg6 h5 10.h4 c4 11.a4 Rf8 ) ( { +0.06 } 2...Re4 3.Rxe4 Kxg7 4.Kg2 Kf7 5.Kf3 Rd8 6.Ke3 Ke6 7.Rh4 Kxe5 8.Rh5+ Kd6 9.Rxh6+ Kd5 10.h4 Re8+ 11.Kd2 Rg8 ) ( { 0.00 } 2...Rxe5 3.Rxe5 Kxg7 4.Rxc5 b6 5.Rc7+ Kg6 6.Kg2 Rf6 7.Rc4 Rd6 8.Kf3 Kf5 9.Ke3 Re6+ 10.Kf3 Rd6 ) *
